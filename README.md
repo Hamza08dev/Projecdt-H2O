@@ -6,11 +6,6 @@ If you have any comments, questions, suggestions or anything, please visit our <
 ![project](https://user-images.githubusercontent.com/82701406/202190644-18b3b91f-7c43-42e7-95d0-398ee4b68a99.jpg)
 
 ## Authors
-<a href="https://github.com/harideegee/project-h2o/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harideegee/project-h2o" />
-</a><br>
-<a href="https://github.com/harideegee">Harikrishnan D</a>
-<br>
 <a href="https://github.com/Hamza08dev">Mohammed Hamza</a>
 <br>
 
